@@ -24,6 +24,8 @@ MHN-Admin was deployed with google cloud engine vm instances
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
 
+<img src="database.gif">
+
 ## Notes
 
 Describe any challenges encountered while doing the assignment.
